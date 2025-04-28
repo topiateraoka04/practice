@@ -1,7 +1,7 @@
 public class Book extends TangibleAsset{
-	//String name;
-	//int price;
-	//String color;
+	String name;
+	int price;
+	String color;
 	String isbn;
 	public Book(String name,int price,String color,String isbn) {
 		super(name,price,color);
