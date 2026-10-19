@@ -8,4 +8,5 @@ public class Hero {					// クラス名
 	String name;					// 名前
 	int hp;							// ＨＰ
 	public void attack(){}
+	public void run(){}
 }
