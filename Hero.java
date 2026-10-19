@@ -9,4 +9,5 @@ public class Hero {					// クラス名
 	int hp;							// ＨＰ
 	public void attack(){}
 	public void run(){}
+	public void sleep(){}
 }
