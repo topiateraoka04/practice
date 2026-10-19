@@ -7,5 +7,5 @@ public class Hero {					// クラス名
 	// フィールド				← 属性の定義
 	String name;					// 名前
 	int hp;							// ＨＰ
-	
+	public void attack(){}
 }
